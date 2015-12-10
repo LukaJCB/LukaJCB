@@ -15,8 +15,12 @@ p {
   line-height: 2rem;
 }
 
-.button-collapse {
-  color: #26a69a;
+.table-of-contents .button-collapse {
+  color: #01579b;
+}
+
+.table-of-contents a.active {
+	border-color: #ff5722;
 }
 
 .parallax-container {
