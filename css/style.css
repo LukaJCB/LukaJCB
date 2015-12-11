@@ -20,7 +20,10 @@ p {
 }
 
 .table-of-contents a.active {
-	border-color: #ff5722;
+	border-color: #01579b;
+}
+.table-of-contents a {
+	color: #fff;
 }
 
 .parallax-container {
