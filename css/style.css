@@ -19,10 +19,14 @@ p {
   color: #01579b;
 }
 
+#projects .activator {
+	height: 300px;
+}
+
 .table-of-contents a.active {
 	border-color: #01579b;
 }
-.table-of-contents a {
+.table-of-contents .hide-on-med-and-down a {
 	color: #fff;
 }
 
