@@ -20,7 +20,7 @@ p {
 }
 
 #projects .activator {
-	height: 300px;
+  /*height: 300px;*/
 }
 
 .table-of-contents a.active {
